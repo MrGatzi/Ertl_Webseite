@@ -43,3 +43,7 @@ body {
   .navbar-brand{
 	   padding: 0px 0px 0px 0px;
   }
+  
+  .icon-bar {
+    background-color: rgb(83,105,171);
+  }
