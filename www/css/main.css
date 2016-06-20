@@ -1,0 +1,45 @@
+body {
+      position: relative; 
+  }
+  #section1 {padding-top:50px;height:500px;color: #fff; background-color: #1E88E5;}
+  #section2 {padding-top:50px;height:500px;color: #fff; background-color: #673ab7;}
+  #section3 {padding-top:50px;height:500px;color: #fff; background-color: #ff9800;}
+  #section41 {padding-top:50px;height:500px;color: #fff; background-color: #00bcd4;}
+  #section42 {padding-top:50px;height:500px;color: #fff; background-color: #009688;}
+  
+  .collapse>ul>li{
+	  border-radius: 50px;
+  }
+  
+  .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover{
+	  background-color: transparent;
+	  color: rgb(83,105,171);
+	  border: 2px solid rgb(83,105,171);
+	  border-radius: 3px;
+	  padding: 8px 8px 8px 8px;
+	  margin: 5px 5px 5px 5px;
+	  text-transform: uppercase;
+	  font-family: Arial;
+	  font-weight: bold;
+  }
+  
+  .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover{
+	  color: rgb(83,105,171);
+  }
+  
+  .navbar-inverse{
+	  border-color: rgb(83,105,171);
+  }
+  
+  .navbar-inverse .navbar-nav > li > a{
+	  color: rgb(83,105,171);
+	  font-family: Arial;
+	  font-weight: bold;
+  }
+  
+  #top_navbar{
+	  background-color: rgba(255,255,255,1);
+  }
+  .navbar-brand{
+	   padding: 0px 0px 0px 0px;
+  }
