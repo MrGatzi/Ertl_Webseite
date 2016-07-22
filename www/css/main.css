@@ -57,3 +57,10 @@ body {
 	  display: inline-block;
 	  margin: auto;
   }
+  ul>li {
+    text-align: left;
+}
+
+ h4 {
+	 font-size: 30px;
+ }
