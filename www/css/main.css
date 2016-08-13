@@ -57,12 +57,23 @@ body {
 	  display: inline-block;
 	  margin: auto;
   }
+  .div-services{
+	  display:inline-block;
+	  padding-top: 15px;
+  }
+  
+  .div-services:hover{
+	  background-color: rgba(83,105,171,0.05);
+  }
+  
+  
   ul>li {
     text-align: left;
 }
 
  h4 {
-	 font-size: 30px;
+	 font-size: 20px;
+	 font-weight: bold;
  }
  .p_story{
 	 font-size: 18px;
