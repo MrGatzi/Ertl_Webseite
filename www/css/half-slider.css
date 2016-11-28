@@ -377,6 +377,7 @@ footer {
 }
 
 /* services */
+
 .section-head h2{
 	font-weight:900;
 	font-size:2.6em;
@@ -392,4 +393,8 @@ footer {
 
 .section-head{
 	margin-bottom: 20px;
+}
+
+.no_padding{
+	padding: 0px 0px 0px 0px;
 }
